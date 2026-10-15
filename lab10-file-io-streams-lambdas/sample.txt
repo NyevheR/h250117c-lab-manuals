@@ -1,0 +1,4 @@
+Java is fun to learn.
+Objects make code easier to organise.
+
+Streams and lambdas keep it short.
